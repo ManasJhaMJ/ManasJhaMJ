@@ -32,6 +32,7 @@ I initially started coding with game developement and now I am a web developer. 
 <img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 
 <hr />
+<br>
 
 #### Contact Me
 - 📘 [LinkedIn](https://www.linkedin.com/in/notmanasjha/)
