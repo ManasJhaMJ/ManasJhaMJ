@@ -7,12 +7,13 @@ I initially started coding with game developement and now I am a web developer. 
 
 <hr />
 
-#### Contact Me
-- 📘 [LinkedIn](https://www.linkedin.com/in/notmanasjha/)
-- 📗 [Gmail](mailto:jhamanas939@gmail.com)
-- 📕 [Instagram](https://www.instagram.com/notmanasjha/)
-
-<hr />
+### Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manasjhamj" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasjhamj&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 #### Technologies
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -30,3 +31,11 @@ I initially started coding with game developement and now I am a web developer. 
 <img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 
+<hr />
+
+#### Contact Me
+- 📘 [LinkedIn](https://www.linkedin.com/in/notmanasjha/)
+- 📗 [Gmail](mailto:jhamanas939@gmail.com)
+- 📕 [Instagram](https://www.instagram.com/notmanasjha/)
+
+<hr />
