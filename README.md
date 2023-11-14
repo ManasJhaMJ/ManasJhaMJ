@@ -8,7 +8,7 @@ I initially started coding with game developement and now I am a web developer. 
 <hr />
 
 ### Github Stats
-![](https://komarev.com/ghpvc/?username=manasjhamj) <br>
+![](https://komarev.com/ghpvc/?username=manasjhamj&color=brightgreen) <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manasjhamj" />
 </a>
