@@ -14,13 +14,8 @@
 
 <hr />
 
-### Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manasjhamj" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasjhamj&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<br><br>
+### 📊 Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasJhaMJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ManasJhaMJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManasJhaMJ&theme=dark&hide_border=false)
 <hr />
