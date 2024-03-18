@@ -3,9 +3,11 @@
 ## Hello, World! I'm Manas. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Web+Designer;Game+Developer;AR+Developer;and+a+lot+more...)](https://git.io/typing-svg)<br>
-<img height="300" width="500" alt="GIF" align="left" src="https://media1.tenor.com/m/TUvcFjOqnG0AAAAC/cute-adorable.gif">
-<img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/euTcNGTTSKoAAAAC/yo-one-piece.gif">
 
+<div>
+<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/euTcNGTTSKoAAAAC/yo-one-piece.gif">
+</div>
+  
 # Little About Me
 ### I love creating things on the internet. Yeah thats it.
 <br>
