@@ -1,25 +1,31 @@
 ![](https://komarev.com/ghpvc/?username=manasjhamj&color=brightgreen&style=for-the-badge)
-### Hello, World! 👋 I'm Manas.
+
+## Hello, World! I'm Manas. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Web+Designer;Game+Developer;AR+Developer;and+a+lot+more...)](https://git.io/typing-svg)<br>
-🚀 With a life-long dedication to learning, I love creating things on the internet.
+<img height="300" width="500" alt="GIF" align="left" src="https://media1.tenor.com/m/TUvcFjOqnG0AAAAC/cute-adorable.gif">
+<img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/euTcNGTTSKoAAAAC/yo-one-piece.gif">
 
-🚀 While I love front-end development and design, I'm also comfortable using back-end tech.
+# Little About Me
+### I love creating things on the internet. Yeah thats it.
+<br>
+<img height="300" width="500" alt="GIF" align="right" src="https://media.tenor.com/cOhgxKZrGqQAAAAM/zoro-one-piece.gif">
 
-🚀 I transitioned from game development on Unity to web development in 2022. 
+### - Learning :
+- 🌱 Web Development
+- 🌱 AR / Game Dev (Unity)
 
-🚀 I love to work as part of a dynamic team and find the challenges that programming brings very exciting!
+### - Hobbies : 
+- 🎮 Gaming Enthusiast
+- 🍿 Anime Enthusiast
+- ⚽ Football Addict
 
-- 🌱 I’m currently learning Web development & Unity
-- 🔍 I’m looking to make more web projects and test my skills
-- 🎮 I love football and gaming, Ankara Messi!
-
-<hr />
+<br><br><br>
 
 ### 📊 Stats:
 ![manasjhamj's Stats](https://github-readme-stats.vercel.app/api?username=manasjhamj&theme=outrun&show_icons=true&hide_border=false&count_private=true)<br/>
 ![manasjhamj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manasjhamj&theme=outrun&hide_border=false) <br/>
 ![manasjhamj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasjhamj&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 <hr />
-Random Developer Jokes <br>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img height="300" width="500" alt="GIF" align="center" src="https://c.tenor.com/JzCzkD5DtnwAAAAC/tenor.gif">
