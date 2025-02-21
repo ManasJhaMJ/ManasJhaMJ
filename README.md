@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ManasJhaMJ/ManasJhaMJ/master/profile.gif "Header")](https://manasjhamj.github.io/)
+[![Header](https://raw.githubusercontent.com/ManasJhaMJ/ManasJhaMJ/master/banner.png "Header")](https://manasjhamj.github.io/)
 
 ![](https://komarev.com/ghpvc/?username=manasjhamj&color=brightgreen&style=for-the-badge)
 
