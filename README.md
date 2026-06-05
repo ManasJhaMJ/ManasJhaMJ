@@ -26,4 +26,5 @@ I’ve won 4 hackathons, each reinforcing my passion for solving real-world prob
 * **[Reskinner](https://chromewebstore.google.com/detail/reskinner/aigjfdnfdepkdogdjcolehemlapfohem)** • Chrome Extension • 1,600+ Users
 * **[Binpaste](https://binpaste.vercel.app/)** • Pastebin Alternative • 800+ Users
 * **[Nariyal.ca](https://nariyal.ca/)** • Shopify Development • Canada
+* **[Showfolio](https://showfolio.app/)** • Portfolio Creator • 1500+ Users
 * **[ShopBeachHarbor.com](https://shopbeachharbor.com/)** • Shopify Development • USA
